@@ -1,0 +1,7 @@
+<resources>
+    <string name="UygulamaAdi">WebView Projesi</string>
+    <string name="WebAdresi">https://www.google.com.tr/</string>
+    <string name="Activity_Diger_Adı">Diğer</string>
+    <string name="anasayfa_menu_1">Diğer</string>
+
+</resources>
